@@ -1,0 +1,139 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "NpLPMPlw6l/zOJqpMc3sm0kLb9A=",
+			"path": "github.com/go-redis/redis",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "9Yvr3n4z9NabybrZ2nM6/Xuvp8g=",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "GQZsUVg/+6UpQAYpc4luMvMutSI=",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "l66eTZiJqueypc56HXCakGDm784=",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "faxPMbV7AiykJgOCb7UKV0MhIgU=",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "87o1OzYT08MJOaIkIYVIJpNUmGo=",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "1PH2NoAB/u3IZmLYyCrIbOzqLZ4=",
+			"path": "github.com/go-redis/redis/internal/util",
+			"revision": "8315cd06b3c0ba134062230b50602912f62dacc0",
+			"revisionTime": "2019-07-09T08:08:03Z"
+		},
+		{
+			"checksumSHA1": "1qg51uRhgdTz6wXVpsrTYI5XTtU=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "877a9775f06853f611fb2d4e817d92479242d1cd",
+			"revisionTime": "2019-05-10T10:23:35Z"
+		},
+		{
+			"checksumSHA1": "ggMDaD5nk422hIyM3F8VbUYEdN0=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "f3e6c3a26b8f7e70fee2751b885531c81bdfa928",
+			"revisionTime": "2019-07-07T12:06:42Z"
+		},
+		{
+			"checksumSHA1": "MFysPW4HqJNdq3JchQyboGuiisw=",
+			"path": "spider-go/parser",
+			"revision": "767eda9e542897ff6ec5a783f2f85be4aaa735c5",
+			"revisionTime": "2019-07-11T10:30:10Z"
+		},
+		{
+			"checksumSHA1": "z/bAEPTAI5raL97sqs2lpy+K0Uw=",
+			"path": "tools/firesystem",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jWQ+MuWIF1pjO+NdQkLXXyXkAYo=",
+			"path": "tools/logger",
+			"revision": "a4890b7b3cde81203d0de59609c9f2c3b525d9af",
+			"revisionTime": "2019-07-11T05:58:38Z"
+		},
+		{
+			"checksumSHA1": "W3o6s8jXLtEXw/UGkRAh7XjrC80=",
+			"path": "tools/logger/writers",
+			"revision": "a4890b7b3cde81203d0de59609c9f2c3b525d9af",
+			"revisionTime": "2019-07-11T05:58:38Z"
+		},
+		{
+			"checksumSHA1": "kekke/gLH7Z9BAHrJY6znJS22kc=",
+			"path": "tools/logger/writers/console",
+			"revision": "a4890b7b3cde81203d0de59609c9f2c3b525d9af",
+			"revisionTime": "2019-07-11T05:58:38Z"
+		},
+		{
+			"checksumSHA1": "RIkCQscGIVId5h/rEYWCT6ksgZ8=",
+			"path": "tools/logger/writers/file",
+			"revision": "a4890b7b3cde81203d0de59609c9f2c3b525d9af",
+			"revisionTime": "2019-07-11T05:58:38Z"
+		},
+		{
+			"checksumSHA1": "R19E/CAPoZZjDlKNWKIPas84Auw=",
+			"path": "tools/sms",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "vB52GNK1wG612OtHy+nytMr9kzQ=",
+			"path": "tools/timer",
+			"revision": "1b853749af328e54ed9e2639bbfc168157ebca65",
+			"revisionTime": "2019-07-12T04:50:19Z"
+		},
+		{
+			"checksumSHA1": "cFFFIhQa+U/urMyaEL1Jz5yJ484=",
+			"path": "tools/url",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "dlMlub6QAgzxp77sjtld+VleU2w=",
+			"path": "videoserver-go/config",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "I6qExJLdte6siux2bL8Gz2Zr6tU=",
+			"path": "videoserver-go/config/persist",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2OJBai2ZaXyNsyCmR8ItEQpq2uY=",
+			"path": "videoserver-go/persist/redis",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "HAaVqy3f/YD32gWLps6mAL4t/00=",
+			"path": "xorm.io/builder",
+			"revision": "7cc28f8a886ba1a7ed499b6bfaed4d694a09f39c",
+			"revisionTime": "2019-07-11T02:48:31Z"
+		},
+		{
+			"checksumSHA1": "AFmkv1BgRXK0SyrH0zziK+oVnDI=",
+			"path": "xorm.io/core",
+			"revision": "7d1d621d68a90324854beeda1c334b0e4e741529",
+			"revisionTime": "2019-06-20T03:36:10Z"
+		}
+	],
+	"rootPath": "windcontrol-go"
+}
